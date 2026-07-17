@@ -43,7 +43,7 @@ A Huvudlös zombie              Kan inte dödas, du måste fly
 M Obeskrivbart fult monster
 m Ett litet gulligt monster
 ¤ En fyrbent spindel           Du blir förgiftad om du blir biten
-
+& En vampyrfladdermus          Svår att träffa
 
 # Drycker
 
