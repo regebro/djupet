@@ -18,7 +18,9 @@ The display looks like ¤, but for all intents and purposes it's a $.
 - Text cursor placement uses `CUR(Row,Col)` in print statements.
   - `Row` is vertical and ranges `0..23`.
   - `Col` is horizontal and ranges `0..39`.
-  - Example: `PRINT CUR(4,5)"Text output"` prints at row 4, column 5.
+  - Ending a print statement with `;` skips the CR, which is good practice
+    if printing in specific positions with CUR() calls.
+  - Example: `PRINT CUR(4,5)"Text output";` prints at row 4, column 5.
 
 - Screen memory can be written directly with `POKE`.
 
