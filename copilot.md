@@ -1,5 +1,7 @@
 ## project specific copilot.md instructions
 
+The file abc80-basic.md has instructions about the particular basic dialect used.
+
 For the right-side status panel used in this project:
 
 - Enable graphics on rows `0..23` with `PRINT CUR(Row,30)CHR$(151)`.
