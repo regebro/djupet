@@ -10,40 +10,40 @@ Personen kan ta skada, vara hungrig.
 
 # Saker du kan plocka upp
 
-o Bröd                         Minskar hungern
-q Stek                         Minskar hungern
-* Första hjälpen               Minskar skadorna
-f Nyckel                       Öppnar låsta saker. Engångs.
-I Skriftrulle med magi         Olika effekter
-d Flaska med en magisk dryck   Olika effekter
-. Guld                         Guld är Poäng
-t Ett litet svärd              Inte kraftigt, men exakt
-j Ett stort svärd              Tungt, du missar oftare
-k Spikklubba                   Effektivt och exakt
-O Lädersköld                   Ger lite skydd mot attacker
-0 Träsköld                     Ger mer skydd mot attacker
+* o Bröd                         Minskar hungern
+* q Stek                         Minskar hungern
+* * Första hjälpen               Minskar skadorna
+* f Nyckel                       Öppnar låsta saker. Engångs.
+* I Skriftrulle med magi         Olika effekter
+* d Flaska med en magisk dryck   Olika effekter
+* . Guld                         Guld är Poäng
+* t Ett litet svärd              Inte kraftigt, men exakt
+* j Ett stort svärd              Tungt, du missar oftare
+* k Spikklubba                   Effektivt och exakt
+* O Lädersköld                   Ger lite skydd mot attacker
+* 0 Träsköld                     Ger mer skydd mot attacker
 
 
 # Andra saker
 
-D Skattkista (låst)            Öppnas med nyckel ersätts då med nåt annat
-X Utlöst fälla                 Outlösta fällor syns ej
-H Karta                        Visar hela nivån
-F Trappan där du kom           Du kan inte gå upp
-E Trappan till nästa nivå      
+* D Skattkista (låst)            Öppnas med nyckel ersätts då med nåt annat
+* X Utlöst fälla                 Outlösta fällor syns ej
+* H Karta                        Visar hela nivån
+* F Trappan där du kom           Du kan inte gå upp
+* E Trappan till nästa nivå      
 
 
 # Monster
 
-s Liten orm
-S Stor orm                     Du blir förgiftad om du blir biten 
-Ä En vakt med två huvuden
-å En mycket liten vakt
-A Huvudlös zombie              Kan inte dödas, du måste fly
-M Obeskrivbart fult monster
-m Ett litet gulligt monster
-¤ En fyrbent spindel           Du blir förgiftad om du blir biten
-& En vampyrfladdermus          Svår att träffa
+* s Liten orm
+* S Stor orm                     Du blir förgiftad om du blir biten 
+* Ä En vakt med två huvuden
+* å En mycket liten vakt
+* A Huvudlös zombie              Kan inte dödas, du måste fly
+* M Obeskrivbart fult monster
+* m Ett litet gulligt monster
+* ¤ En fyrbent spindel           Du blir förgiftad om du blir biten
+* & En vampyrfladdermus          Svår att träffa
 
 # Drycker
 
